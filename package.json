@@ -1,6 +1,6 @@
 {
     "name": "swag",
-    "version": "0.6.1",
+    "version": "0.6.2",
     "author": "Elving Rodriguez <elving.pr@gmail.com>",
     "description": "Give your handlebars.js templates some swag son!",
     "main": "./index.js",
@@ -16,7 +16,7 @@
         "utilities"
     ],
     "dependencies" : {
-        "handlebars": "1.x"
+        "handlebars": "~4.7.8"
     },
     "devDependencies" : {
         "coffee-script": "~1.6.3",
